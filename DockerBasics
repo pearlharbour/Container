@@ -1,0 +1,10 @@
+Docker is a container management and imaging platform.
+Various ways to deploy Docker on Azure.
+  Docker VM extension and Azure Resource Manager templates:
+    consistent container deployments, also supports Docker Compose
+  Docker Machine: Single Docker host to quickly prototype an app.
+  Azure Container Services
+    production-ready, scalable environments, Docker Swarm cluster
+    
+Docker VM extension:
+Docker daemon, Docker client, and Docker Compose in Linux VM   
